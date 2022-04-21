@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: If the text file is sorted, a bubble sort will only have to go through the data once.  If it is random or reversed, it will have to go through the file many times to sort it.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge sort breaks down the problem into smaller pieces, then sorts and merges.  Similarly sized files should take about the same amount of time regardless of if they are currently sorted.  It is more efficient than a selection sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection sort goes through each list only once so the time to sort any similarly sized file should be about the same.  It should take more time than a merge sort.
